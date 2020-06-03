@@ -1,6 +1,6 @@
 {
   "name": "aider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight website popular article component for static website.",
   "main": "dist/Aider.min.js",
   "scripts": {
